@@ -23,7 +23,7 @@ I major in MIS in my sophomore year. Recently, I am an intern in TWM working on 
 ### 🛠️ Tech Stack:
 -  Programming Language
   
-    ![Java](https://img.shields.io/badge/-go-05122A?style=flat&logo=java)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+    ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 -  Web Framwork
 
@@ -41,7 +41,7 @@ I major in MIS in my sophomore year. Recently, I am an intern in TWM working on 
 
     ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) ![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google) 
 - OS & Other Technologies
-    ![R](https://img.shields.io/badge/-Hadoop-000?&logo=R&logoColor=F6F617)![Docker](https://img.shields.io/badge/-Hadoop-000?&logo=Docker&logoColor=F6F617)
+    ![R](https://img.shields.io/badge/-R-000?&logo=R&logoColor=F6F700)![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=F6F617)
 <br>
 
 
