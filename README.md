@@ -1,7 +1,6 @@
 ## Hey 👋, I'm Amy Chen!
-<a href='https://www.linkedin.com/in/jo-ting-chen-8a1808267/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
-I major in MIS in my sophomore year. Recently, I am an intern in TWM working on Cloud Service(GCP, AWS), Full Stack Web Development and Project Management skill.
+I am currently a sophomore majoring in Management Information Systems (MIS). Recently, I am an intern at TWM, where I am gaining valuable experience in Cloud Services (GCP, AWS), Full Stack Web Development, and Project Management.
 <br/>
 <br/>
 
@@ -10,14 +9,14 @@ I major in MIS in my sophomore year. Recently, I am an intern in TWM working on 
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Let's beat google project and internship**
-- 🤝 &nbsp; I’m always curious about new thing and skill.
-- 🌱 &nbsp; I’m currently learning C++; 
+- 🤝 &nbsp; I possess a perpetual curiosity for acquiring new skills and knowledge.
+- 🌱 &nbsp;  I am presently expanding my proficiency in C++.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/joting0518)
 - 🎨 &nbsp; Seeing [this medium](https://hackmd.io/-UwaFbpRTy2cyWDsx9Srmg), it is the lessen I prepare for teaching clubmates. 👉
-- 💬 &nbsp; Ask me about anything, I am happy to help;
+- 💬 &nbsp; Feel free to ask me about anything; I am more than happy to help: 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jo-ting-chen-8a1808267/)
 - 📝 &nbsp; Checkout my [english resume](https://github.com/joting0518/joting0518.github.io)
-- 📧 &nbsp; Email me! [My email](111306011@g.nccu.edu.tw)(I will reply you asap.)
+- 📧 &nbsp; Email me! [My email](111306011@g.nccu.edu.tw)(I'll reply to you as soon as possible)
 <br>
 
 ### 🛠️ Tech Stack:
@@ -31,7 +30,7 @@ I major in MIS in my sophomore year. Recently, I am an intern in TWM working on 
 
  *  Frontend
  
-    ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html)&nbsp;![CSS](https://img.shields.io/badge/-CSS-000?&logo=css)&nbsp;
+    ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)&nbsp;
 
 -  Database
 
@@ -43,7 +42,7 @@ I major in MIS in my sophomore year. Recently, I am an intern in TWM working on 
 
 - OS & Other Technologies
 
-  ![R](https://img.shields.io/badge/-R-000?&logo=R&logoColor=F6F700)![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=F6F617)
+  ![R](https://img.shields.io/badge/-R-000?&logo=R&logoColor=75AADB)![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=2496ED)
 <br>
 
 
@@ -59,14 +58,12 @@ I major in MIS in my sophomore year. Recently, I am an intern in TWM working on 
 
 ### 🛠️ My Projects
 
-<!-- Project: Artistify.ai -->
-<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
+<a href="https://github.com/joting0518/project_national_holidays" target="_blank"> <img alt="Crawling" src="[https://img.shields.io/badge/Crawling-05122A?style=for-the-badge]" height="68" align="left"> </a>
 
-<!-- Project: Sheets Database -->
-<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
+<a href="https://github.com/joting0518/Dell_stock" target="_blank"> <img alt="Deep Learning" src="[https://img.shields.io/badge/Deep%20Learning-05122A?style=for-the-badge]"  height="68" align="left"> </a>
 
-<!-- Project: README Icons -->
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
+<a href="https://github.com/joting0518/Business-Analytics-with-SAS-R" target="_blank"> <img alt="Data Analysis" src="[https://img.shields.io/badge/Data%20Analysis-05122A?style=for-the-badge]" height="68" align="left"> </a>
 
-<!-- Project: PasswordKeeper -->
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
+<a href="https://github.com/joting0518/GCP_practice" target="_blank"> <img alt="GCP" src="[https://img.shields.io/badge/GCP-05122A?style=for-the-badge]" height="68" align="left"> </a>
+
+
