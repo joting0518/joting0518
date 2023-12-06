@@ -15,7 +15,8 @@ I am currently a sophomore majoring in Management Information Systems (MIS). Rec
 - 🎨 &nbsp; Seeing [this medium](https://hackmd.io/-UwaFbpRTy2cyWDsx9Srmg), it is the lessen I prepare for teaching clubmates. 👉
 - 💬 &nbsp; Feel free to ask me about anything; I am more than happy to help: 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jo-ting-chen-8a1808267/)
-- 📝 &nbsp; Checkout my [english resume](https://github.com/joting0518/joting0518.github.io)
+
+- 📝 &nbsp; Checkout my [chinese resume](https://drive.google.com/file/d/1zyWLbvnYp26A7TrnWeZd5HjnshgUFyr2/view?usp=sharing) and [english resume](https://drive.google.com/file/d/1qWM-AuQqCytcKN49rWLFeFh8H8RuW8bU/view?usp=sharing)
 - 📧 &nbsp; Email me! [My email](111306011@g.nccu.edu.tw)(I'll reply to you as soon as possible)
 <br>
 
