@@ -58,12 +58,12 @@ I am currently a sophomore majoring in Management Information Systems (MIS). Rec
 
 ### 🛠️ My Projects
 
-<a href="https://github.com/joting0518/project_national_holidays" target="_blank"> <img alt="Crawling" src="[https://img.shields.io/badge/Crawling-05122A?style=for-the-badge]" height="68" align="left"> </a>
+<a href="https://github.com/joting0518/project_national_holidays" target="_blank"> <img alt="Crawling" src="https://img.shields.io/badge/Crawling-05122A?style=for-the-badge" height="68" align="left"> </a>
 
-<a href="https://github.com/joting0518/Dell_stock" target="_blank"> <img alt="Deep Learning" src="[https://img.shields.io/badge/Deep%20Learning-05122A?style=for-the-badge]"  height="68" align="left"> </a>
+<a href="https://github.com/joting0518/Dell_stock" target="_blank"> <img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-05122A?style=for-the-badge"  height="68" align="left"> </a>
 
-<a href="https://github.com/joting0518/Business-Analytics-with-SAS-R" target="_blank"> <img alt="Data Analysis" src="[https://img.shields.io/badge/Data%20Analysis-05122A?style=for-the-badge]" height="68" align="left"> </a>
+<a href="https://github.com/joting0518/Business-Analytics-with-SAS-R" target="_blank"> <img alt="Data Analysis" src="https://img.shields.io/badge/Data%20Analysis-05122A?style=for-the-badge" height="68" align="left"> </a>
 
-<a href="https://github.com/joting0518/GCP_practice" target="_blank"> <img alt="GCP" src="[https://img.shields.io/badge/GCP-05122A?style=for-the-badge]" height="68" align="left"> </a>
+<a href="https://github.com/joting0518/GCP_practice" target="_blank"> <img alt="GCP" src="https://img.shields.io/badge/GCP-05122A?style=for-the-badge" height="68" align="left"> </a>
 
 
