@@ -1,4 +1,4 @@
-## Hey 👋, I'm Rahul Jha!
+## Hey 👋, I'm Amy Chen!
 <a href='https://www.linkedin.com/in/jo-ting-chen-8a1808267/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
 I major in MIS in my sophomore year. Recently, I am an intern in TWM working on Cloud Service(GCP, AWS), Full Stack Web Development and Project Management skill.
@@ -17,7 +17,7 @@ I major in MIS in my sophomore year. Recently, I am an intern in TWM working on 
 - 💬 &nbsp; Ask me about anything, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jo-ting-chen-8a1808267/)
 - 📝 &nbsp; Checkout my [english resume](https://github.com/joting0518/joting0518.github.io)
-- 📧 &nbsp; Email me! [My email](111306011@g.nccu.edu.tw)I will reply you asap.
+- 📧 &nbsp; Email me! [My email](111306011@g.nccu.edu.tw)(I will reply you asap.)
 <br>
 
 ### 🛠️ Tech Stack:
@@ -38,8 +38,8 @@ I major in MIS in my sophomore year. Recently, I am an intern in TWM working on 
    ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
 - Cloud
-
     ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) ![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google) 
+
 - OS & Other Technologies
     ![R](https://img.shields.io/badge/-R-000?&logo=R&logoColor=F6F700)![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=F6F617)
 <br>
@@ -48,15 +48,23 @@ I major in MIS in my sophomore year. Recently, I am an intern in TWM working on 
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview]()
+![Most Used Languages]()
 
 </a>
 
 <br>
 
 ### 🛠️ My Projects
+
+<!-- Project: Artistify.ai -->
 <a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
+
+<!-- Project: Sheets Database -->
 <a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
+
+<!-- Project: README Icons -->
 <a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
+
+<!-- Project: PasswordKeeper -->
 <a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
