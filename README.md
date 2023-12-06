@@ -38,10 +38,12 @@ I major in MIS in my sophomore year. Recently, I am an intern in TWM working on 
    ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
 - Cloud
-    ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) ![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google) 
+
+  ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google) 
 
 - OS & Other Technologies
-    ![R](https://img.shields.io/badge/-R-000?&logo=R&logoColor=F6F700)![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=F6F617)
+
+  ![R](https://img.shields.io/badge/-R-000?&logo=R&logoColor=F6F700)![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=F6F617)
 <br>
 
 
