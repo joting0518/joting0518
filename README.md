@@ -10,7 +10,7 @@ I am currently a sophomore majoring in Management Information Systems (MIS). Rec
 
 - 🔭 &nbsp; I’m currently working on **Let's beat google project and internship**
 - 🤝 &nbsp; I possess a perpetual curiosity for acquiring new skills and knowledge.
-- 🌱 &nbsp; Seeing my projects' description on [Hackmd](https://hackmd.io/@PK-DB_l7T3Sx9aEZc_wIYA/Hk8jg6LBp)
+- 🌱 &nbsp; Seeing my projects and introduction on [Hackmd](https://hackmd.io/@PK-DB_l7T3Sx9aEZc_wIYA/Hk8jg6LBp)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/joting0518)
 - 🎨 &nbsp; Seeing [this medium](https://hackmd.io/-UwaFbpRTy2cyWDsx9Srmg), it is the lessen I prepare for teaching clubmates. 👉
 - 💬 &nbsp; Feel free to ask me about anything; I am more than happy to help: 
