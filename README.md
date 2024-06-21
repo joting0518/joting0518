@@ -8,7 +8,7 @@ I am currently a sophomore majoring in Management Information Systems (MIS). Rec
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Let's beat google project and internship**
+- 🔭 &nbsp; I’m currently working on **internship at Academic Sinica, studing CV and image restoration.**
 - 🤝 &nbsp; I possess a perpetual curiosity for acquiring new skills and knowledge.
 - 🌱 &nbsp; Seeing my projects and introduction on [Hackmd](https://hackmd.io/@PK-DB_l7T3Sx9aEZc_wIYA/Hk8jg6LBp)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/joting0518)
@@ -27,7 +27,7 @@ I am currently a sophomore majoring in Management Information Systems (MIS). Rec
 
 -  Web Framwork
 
-   ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask) 
+   ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask) ![SpringBoot](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=SpringBoot)
 
  *  Frontend
  
@@ -35,7 +35,7 @@ I am currently a sophomore majoring in Management Information Systems (MIS). Rec
 
 -  Database
 
-   ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+   ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB) ![Hibernate](https://img.shields.io/badge/-Hibernate-000?&logo=hibernate)
 
 - Cloud
 
@@ -44,6 +44,10 @@ I am currently a sophomore majoring in Management Information Systems (MIS). Rec
 - OS & Other Technologies
 
   ![R](https://img.shields.io/badge/-R-000?&logo=R&logoColor=75AADB) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=2496ED)
+
+- Deep Learning
+
+  ![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch)
 <br>
 
 
