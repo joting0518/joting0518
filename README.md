@@ -27,7 +27,7 @@ I am currently a sophomore majoring in Management Information Systems (MIS). Rec
 
 -  Web Framwork
 
-   ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask) ![SpringBoot](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=SpringBoot)
+   ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask) ![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=SpringBoot)
 
  *  Frontend
  
