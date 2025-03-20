@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Amy Chen!
 
-I am currently a sophomore majoring in Management Information Systems (MIS). Recently, I am an intern at TWM, where I am gaining valuable experience in Cloud Services (GCP, AWS), Full Stack Web Development, and Project Management.
+I am currently a jnuior majoring in Management Information Systems (MIS). Previously, I was an intern at TWM, where I am gaining valuable experience in Cloud Services (GCP, AWS), Full Stack Web Development, and Project Management. And then, I worked on internship at Academic Sinica, studing CV and image restoration. During the period, my teammate and I won the ECCV workshop, and wrote the paper for it.
 <br/>
 <br/>
 
@@ -8,7 +8,7 @@ I am currently a sophomore majoring in Management Information Systems (MIS). Rec
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **internship at Academic Sinica, studing CV and image restoration.**
+- 🔭 &nbsp; Seeing [ECCV workshop paper](https://drive.google.com/file/d/1_g__iBexRDSc9m-2DqDAfBLVtIxhl1MV/view?usp=drive_link)
 - 🤝 &nbsp; I possess a perpetual curiosity for acquiring new skills and knowledge.
 - 🌱 &nbsp; Seeing my projects and introduction on [Hackmd](https://hackmd.io/@PK-DB_l7T3Sx9aEZc_wIYA/Hk8jg6LBp)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/joting0518)
