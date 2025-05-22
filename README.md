@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Amy Chen!
 
-I am currently a jnuior majoring in Management Information Systems (MIS). Previously, I was an intern at TWM, where I am gaining valuable experience in Cloud Services (GCP, AWS), Full Stack Web Development, and Project Management. And then, I worked on internship at Academic Sinica, studing CV and image restoration. During the period, my teammate and I won the ECCV workshop, and wrote the paper for it.
+I am currently a junior majoring in Management Information Systems (MIS). Previously, I was an intern at TWM, where I am gaining valuable experience in Cloud Services (GCP, AWS), Full Stack Web Development, and Project Management. And then, I worked on internship at Academic Sinica, studing CV and image restoration. During the period, my teammate and I won the ECCV workshop, and wrote the paper for it. Currently, I start my new internship in ASML as a software development intern.
 <br/>
 <br/>
 
@@ -62,13 +62,24 @@ I am currently a jnuior majoring in Management Information Systems (MIS). Previo
 <br>
 
 ### 🛠️ My Projects
+#### 🧠 AI Related Projects
 
-<a href="https://github.com/joting0518/project_national_holidays" target="_blank"> <img alt="Crawling" src="https://img.shields.io/badge/Crawling-05122A?style=for-the-badge" height="68" align="left"> </a>
+| Project Name                                                                                                       | Description                                                        |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| [`GenAI_diary`](https://github.com/joting0518/GenAI_diary)                                                         | 使用日記文字生成圖片，整合多種 Stable Diffusion 模型，Flask API + localStorage 前後端系統 |
+| [`AES_project`](https://github.com/joting0518/AES_project)                                                         | 自動英文作文評分系統，應用於 IELTS 任務，進行語言模型 fine-tuning               |
+| [`NLP_Auto_Essay_Scoring_For_IELTS`](https://github.com/joting0518/NLP_Auto_Essay_Scoring_For_IELTS)               | 針對 IELTS 整合 NLP 評分指標與模型，進行分析                             |
+| [`Finetune_Deberta`](https://github.com/joting0518/Finetune_Deberta)                                               | 對 DeBERTa 進行微調並應用於句子相似度任務                         |
+| [`AI-CUP-2024-Power-Generation-Prediction`](https://github.com/joting0518/AI-CUP-2024-Power-Generation-Prediction) | 電力預測競賽，使用時間序列 + Transformer 模型預測短期發電量                              |
+| [`VLM_Thought_Process_Visualization`](https://github.com/joting0518/VLM_Thought_Process_Visualization)             | Video-Language Model 的推理流程以及思維鏈可視化操作                             |
+| [`VQA_Task_with_DSPy_and_Gemini`](https://github.com/joting0518/VQA_Task_with_DSPy_and_Gemini)                     | 以 DSPy + Google Gemini 架構處理視覺問答任務，完成VQA任務                        |
 
-<a href="https://github.com/joting0518/Dell_stock" target="_blank"> <img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-05122A?style=for-the-badge"  height="68" align="left"> </a>
+#### 🌐 Web Development Projects
 
-<a href="https://github.com/joting0518/Business-Analytics-with-SAS-R" target="_blank"> <img alt="Data Analysis" src="https://img.shields.io/badge/Data%20Analysis-05122A?style=for-the-badge" height="68" align="left"> </a>
-
-<a href="https://github.com/joting0518/GCP_practice" target="_blank"> <img alt="GCP" src="https://img.shields.io/badge/GCP-05122A?style=for-the-badge" height="68" align="left"> </a>
-
+| Project Name                                                                                                         | Description                                   |
+| -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| [`database_finalproject_volunteer_platform`](https://github.com/joting0518/database_finalproject_volunteer_platform) | 以 Spring Boot + MySQL 打造志工媒合平台理   |
+| [`traceability_system`](https://github.com/joting0518/traceability_system)                                           | 產品溯源系統，利用orm進行資料的操作，並自動生成大量假資料測試應用程式                     |
+| [`project_national_holidays`](https://github.com/joting0518/project_national_holidays)                               | Web API 爬蟲專案，實作國定假日查詢平台                 |
+| [`GCP_practice`](https://github.com/joting0518/GCP_practice)                                                         | GCP 雲端服務操作練習 |
 
