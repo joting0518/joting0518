@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Amy Chen!
 
-I am currently a senior student majoring in Management Information Systems (MIS) in NCCU. Previously, I was an intern at TWM, where I am gaining valuable experience in Cloud Services (GCP, AWS), Full Stack Web Development, and Project Management. And then, I worked on internship at Academic Sinica, studing CV and image restoration, and always won the best performance award in ECCV workshop the perception test challenge in the grounded video qa track. Currently, I start my new internship in ASML as a software development intern, working for customer support team, and develop tools for internal use, and accelerate work efficiency.
+I am currently a senior student majoring in Management Information Systems (MIS) in NCCU. Previously, I was an intern at TWM, where I am gaining valuable experience in Cloud Services (GCP, AWS), Full Stack Web Development, and Project Management. And then, I worked on internship at Academic Sinica, studing CV and image restoration, and always won the best performance award in ECCV workshop the perception test challenge in the grounded video qa track. Currently, I start my new internship in ASML as a software development intern, working for customer support team, and creating tools for internal use to accelerate work efficiency. Besides, I am also a prospective graduate student in NYCU.(I will update more details asap.)
 <br/>
 <br/>
 
@@ -12,7 +12,7 @@ I am currently a senior student majoring in Management Information Systems (MIS)
 - 🤝 &nbsp; I possess a perpetual curiosity for acquiring new skills and knowledge.
 - 🌱 &nbsp; Seeing my projects and introduction on [Hackmd](https://hackmd.io/@PK-DB_l7T3Sx9aEZc_wIYA/Hk8jg6LBp)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/joting0518)
-- 💬 &nbsp; Feel free to ask me about anything; I am more than happy to help: 
+- 💬 &nbsp; Feel free to ask me about anything; I am more than happy to help.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jo-ting-chen-8a1808267/)
 
 - 📝 &nbsp; Checkout my [Chinese resume](https://drive.google.com/file/d/1jfF6sNqwMitxsZJ9uERhYk_ANITJMFoY/view?usp=drive_link), [English resume](https://drive.google.com/file/d/1o4wlfPLF8JonJgRqyYDYVzPAZvW4gnlK/view?usp=drive_link) and [transcript](https://drive.google.com/file/d/1tna-GOyjoKYzGd56m0arCdf3LXIiLRX_/view?usp=sharing)
