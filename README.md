@@ -15,7 +15,8 @@ I am currently a senior student majoring in Management Information Systems (MIS)
 - 💬 &nbsp; Feel free to ask me about anything; I am more than happy to help.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jo-ting-chen-8a1808267/)
 
-- 📝 &nbsp; Checkout my [Chinese resume](https://drive.google.com/file/d/1jfF6sNqwMitxsZJ9uERhYk_ANITJMFoY/view?usp=drive_link), [English resume](https://drive.google.com/file/d/1o4wlfPLF8JonJgRqyYDYVzPAZvW4gnlK/view?usp=drive_link) and [transcript](https://drive.google.com/file/d/1tna-GOyjoKYzGd56m0arCdf3LXIiLRX_/view?usp=sharing)
+- 📝 &nbsp; Checkout my [Chinese resume](https://drive.google.com/file/d/1jfF6sNqwMitxsZJ9uERhYk_ANITJMFoY/view?usp=drive_link), [English resume](https://drive.google.com/file/d/1o4wlfPLF8JonJgRqyYDYVzPAZvW4gnlK/view?usp=drive_link).
+
 - 📧 &nbsp; Email me! [My email](111306011@g.nccu.edu.tw)(I'll reply to you as soon as possible)
 <br>
 
